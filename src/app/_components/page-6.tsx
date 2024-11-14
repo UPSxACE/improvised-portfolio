@@ -3,7 +3,7 @@ import Layout from "./layout";
 
 const project = {
   title: "Minecraft JourneyMap Merger",
-  image: "/sc/jmap.png",
+  image: "/sc/jmap.PNG",
   date: "April, 2024",
   text: `Minecraft JourneyMap Merger is a web application I created to merge the small pieces of the map from the famous Minecraft mod 'JourneyMap' into one single image, so the user can enjoy zooming in and out as much as he wants.`,
   badges: (

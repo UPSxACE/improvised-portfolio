@@ -3,7 +3,7 @@ import Layout from "./layout";
 
 const project = {
   title: "MyDiary",
-  image: "/sc/my-diary.png",
+  image: "/sc/my-diary.PNG",
   date: "April, 2024",
   text: `Still during my bootcamp I've started to study TypeScript and golang by myself, and created a basic full-stack application for writing notes.
 With the golang framework Echo in the backend and NextJS in the frontend, users could create an account and start managing their notes.

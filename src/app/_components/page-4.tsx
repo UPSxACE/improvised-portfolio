@@ -4,7 +4,7 @@ import Layout from "./layout";
 
 const project = {
   title: "Spaceship game",
-  image: "/sc/spaceship-game-2.png",
+  image: "/sc/spaceship-game-2.PNG",
   date: "December, 2023",
   text: `During my bootcamp I've made a simple game using HTML Canvas and free graphical resources from the internet.`,
   badges: (

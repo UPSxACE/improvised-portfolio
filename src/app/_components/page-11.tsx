@@ -3,7 +3,7 @@ import Layout from "./layout";
 
 const project = {
   title: "Static Template",
-  image: "/sc/business.png",
+  image: "/sc/business.PNG",
   date: "October, 2024",
   text: `Static template I've created to practice my frontend skills and possibly sell in the future. Based on a Figma template.`,
   badges: (

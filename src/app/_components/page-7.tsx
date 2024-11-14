@@ -3,7 +3,7 @@ import Layout from "./layout";
 
 const project = {
   title: "MyNotes",
-  image: "/sc/my-notes.png",
+  image: "/sc/my-notes.PNG",
   date: "Work in Progress",
   text: `I did not like how MyDiary looked like, or it's text editor. So I decided to recreate it with better UI/UX and a more modern block editor (tip tap). Also took the opportunity to learn .NET and GraphQL.
   Unfortunately, I did not finish it yet due to it's complexity.`,

@@ -4,7 +4,7 @@ import Layout from "./layout";
 
 const project = {
   title: "Time Zone Converter",
-  image: "/sc/timezone-c.png",
+  image: "/sc/timezone-c.PNG",
   date: "September, 2024",
   text: `This app is a simple react application I've created for me and my friends from other countries to use to convert our time zones.
 I wanted a challenge, so I also made it so a video and a song are played when someone's profile is hovered. It has some inside jokes.`,

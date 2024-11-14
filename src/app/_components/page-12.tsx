@@ -3,7 +3,7 @@ import Layout from "./layout";
 
 const project = {
   title: "Kazui.club",
-  image: "/sc/kazui.png",
+  image: "/sc/kazui.PNG",
   date: "November, 2024",
   text: `My brother and I created a memecoin in Solana, and we needed a website to introduce it!`,
   badges: (

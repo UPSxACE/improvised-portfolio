@@ -3,7 +3,7 @@ import Layout from "./layout";
 
 const project = {
   title: "Vyzion - Landing Page",
-  image: "/sc/vyzion.png",
+  image: "/sc/vyzion.PNG",
   date: "October, 2024",
   text: `Very basic landing page for a freelance company I tried to create with my brother. Some sections of it, including icons, are customizable through a Strapi CMS instance that runs as backend.`,
   badges: (
