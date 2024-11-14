@@ -29,7 +29,7 @@ const project = {
     </div>
   ),
   onPreview: () => {
-    toast("Use WASD to move, and SPACE to shoot", {
+    toast("Use the arrow keys to move, and SPACE to shoot", {
       id: "spaceship",
       position: "bottom-center",
       duration: 10000,
